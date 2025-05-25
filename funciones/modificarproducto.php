@@ -10,6 +10,7 @@
  * @version 1.0.0
  * @license Creative Commons Atribution
  * @package Productos
+ * Cambio en los comentarios
  */
 
 require_once('conexion.php');
